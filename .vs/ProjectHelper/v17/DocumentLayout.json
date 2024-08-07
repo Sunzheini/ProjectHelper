@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Appl\\Projects\\C#\\ProjectHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F88ECC9-D083-4868-966C-EEDDFBA9D809}|ProjectHelper\\ProjectHelper.csproj|c:\\appl\\projects\\c#\\projecthelper\\projecthelper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F88ECC9-D083-4868-966C-EEDDFBA9D809}|ProjectHelper\\ProjectHelper.csproj|solutionrelative:projecthelper\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F88ECC9-D083-4868-966C-EEDDFBA9D809}|ProjectHelper\\ProjectHelper.csproj|c:\\appl\\projects\\c#\\projecthelper\\projecthelper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F88ECC9-D083-4868-966C-EEDDFBA9D809}|ProjectHelper\\ProjectHelper.csproj|solutionrelative:projecthelper\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Appl\\Projects\\C#\\ProjectHelper\\ProjectHelper\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProjectHelper\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Appl\\Projects\\C#\\ProjectHelper\\ProjectHelper\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ProjectHelper\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:14:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Appl\\Projects\\C#\\ProjectHelper\\ProjectHelper\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProjectHelper\\MainWindow.xaml",
+              "ToolTip": "C:\\Appl\\Projects\\C#\\ProjectHelper\\ProjectHelper\\MainWindow.xaml",
+              "RelativeToolTip": "ProjectHelper\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-05T14:14:22.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
