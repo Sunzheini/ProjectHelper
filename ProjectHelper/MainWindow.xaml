@@ -63,7 +63,9 @@
 
         <Border Background="#1E1E1E" CornerRadius="15" BorderThickness="0" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2">
             <Grid>
-                <Button Name="myButton" Content="Click Me" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0" Click="myButton_Click"/>
+                <Button Name="myButton0" Content="Click Me0" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,50,0,0" Click="myButton_Click0"/>
+                <Button Name="myButton1" Content="Click Me1" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,150,0,0" Click="myButton_Click1"/>
+                <Button Name="myButton2" Content="Click Me2" Width="100" Height="50" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,250,0,0" Click="myButton_Click2"/>
                 <Label Name="myLabel" Content="Избери" HorizontalAlignment="Center" VerticalAlignment="Center"/>
             </Grid>
         </Border>

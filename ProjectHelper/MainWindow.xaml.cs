@@ -22,9 +22,16 @@ namespace ProjectHelper
             InitializeComponent();
         }
 
-        private void myButton_Click(object sender, RoutedEventArgs e)
+        private void myButton_Click0(object sender, RoutedEventArgs e)
         {
+        }
 
+        private void myButton_Click1(object sender, RoutedEventArgs e)
+        {
+        }
+
+        private void myButton_Click2(object sender, RoutedEventArgs e)
+        {
         }
     }
 }
